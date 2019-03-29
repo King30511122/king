@@ -1,6 +1,6 @@
 owner=432961984179208193
-prefix=#
-game= 
+prefix=.
+game=TEAM F5AMH
 stayinchannel=true
 songinstatus=false
-token=NTU2MjEyOTYyODA1ODA5MTYy.D22deA.PO1qGDtXCAtI7CIWRMCOHjYi-z0
+token=2gCdBHOCVQEjyTv3Dd1e7lGdBZqXZmbx
