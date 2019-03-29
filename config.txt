@@ -3,4 +3,4 @@ prefix=.
 game=TEAM F5AMH
 stayinchannel=true
 songinstatus=false
-token=2gCdBHOCVQEjyTv3Dd1e7lGdBZqXZmbx
+token=NTU2MjEyOTYyODA1ODA5MTYy.D3-RcQ.ZFinuu_WlENFdmqfhhK6cNinVOk
